@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/vuex.svg)](https://npmjs.com/package/vuex)
 [![ci status](https://circleci.com/gh/vuejs/vuex/tree/dev.png?style=shield)](https://circleci.com/gh/vuejs/vuex)
 
----
+---XZxzxz
 
 :fire: **HEADS UP!** You're currently looking at Vuex 3 branch. If you're looking for Vuex 4, [please check out `4.0` branch](https://github.com/vuejs/vuex/tree/4.0).
 
